@@ -1,5 +1,0 @@
-feedparser
-python-telegram-bot
-google-generativeai
-requests
-beautifulsoup4
