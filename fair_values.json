@@ -1,0 +1,147 @@
+{
+    "MENA": {
+        "company_names": [
+            "مينا للاستثمار السياحي والعقاري"
+        ],
+        "fair_value": 2.45,
+        "upside_percent": -44.9,
+        "valuation": "تقييم مبالغ"
+    },
+    "PRCL": {
+        "company_names": [
+            "العامة لمنتجات الخزف والصيني"
+        ],
+        "fair_value": 2.8995,
+        "upside_percent": 9.8,
+        "valuation": "عادل"
+    },
+    "SVCE": {
+        "company_names": [
+            "جنوب الوادى للأسمنت"
+        ],
+        "fair_value": 5.0,
+        "upside_percent": -39.2,
+        "valuation": "تقييم مبالغ"
+    },
+    "IFAP": {
+        "company_names": [
+            "الدولية للمحاصيل الزراعية"
+        ],
+        "fair_value": 0.0,
+        "upside_percent": 0.0,
+        "valuation": "تقييم مبالغ"
+    },
+    "TMGH": {
+        "company_names": [
+            "مجموعة طلعت مصطفى القابضة",
+            "طلعت مصطفى"
+        ],
+        "fair_value": 0.25,
+        "upside_percent": 0.3,
+        "valuation": "صفقة"
+    },
+    "CERA": {
+        "company_names": [
+            "العربية للخزف سيراميكا"
+        ],
+        "fair_value": 0.0,
+        "upside_percent": 0.0,
+        "valuation": "تقييم مبالغ"
+    },
+    "ECAP": {
+        "company_names": [
+            "العز للسيراميك والبورسلين"
+        ],
+        "fair_value": 0.0,
+        "upside_percent": 0.0,
+        "valuation": "تقييم مبالغ"
+    },
+    "ACGC": {
+        "company_names": [
+            "العربية لحليج الأقطان"
+        ],
+        "fair_value": 0.0,
+        "upside_percent": 0.0,
+        "valuation": "تقييم مبالغ"
+    },
+    "AMER": {
+        "company_names": [
+            "مجموعة عامر القابضة"
+        ],
+        "fair_value": 1.7,
+        "upside_percent": -20.4,
+        "valuation": "تقييم مبالغ"
+    },
+    "KABO": {
+        "company_names": [
+            "النصر للملابس والمنسوجات"
+        ],
+        "fair_value": 5.26,
+        "upside_percent": -18.8,
+        "valuation": "تقييم مبالغ"
+    },
+    "ARAB": {
+        "company_names": [
+            "المطورون العرب القابضة"
+        ],
+        "fair_value": 0.16,
+        "upside_percent": -17.9,
+        "valuation": "عادل"
+    },
+    "TAQA": {
+        "company_names": [
+            "طاقة عربية ش.م.م"
+        ],
+        "fair_value": 10.58,
+        "upside_percent": -17.2,
+        "valuation": "عادل"
+    },
+    "MEPA": {
+        "company_names": [
+            "العبوات الطبية"
+        ],
+        "fair_value": 1.35,
+        "upside_percent": -15.8,
+        "valuation": "عادل"
+    },
+    "UBEE": {
+        "company_names": [
+            "المصرف المتحد"
+        ],
+        "fair_value": 0.75,
+        "upside_percent": 5.2,
+        "valuation": "عادل"
+    },
+    "OBRI": {
+        "company_names": [
+            "العبور للاستثمار العقاري"
+        ],
+        "fair_value": 34.42,
+        "upside_percent": -14.5,
+        "valuation": "عادل"
+    },
+    "RREI": {
+        "company_names": [
+            "الاستثمار العقاري العربي"
+        ],
+        "fair_value": 2.51,
+        "upside_percent": -12.4,
+        "valuation": "عادل"
+    },
+    "ADIB": {
+        "company_names": [
+            "مصرف أبو ظبي الإسلامي - مصر"
+        ],
+        "fair_value": 44.3,
+        "upside_percent": 34.3,
+        "valuation": "تقييم مبخس"
+    },
+    "ASPI": {
+        "company_names": [
+            "ASP Isotopes Inc"
+        ],
+        "fair_value": 6.83,
+        "upside_percent": -11.7,
+        "valuation": "عادل"
+    }
+}
