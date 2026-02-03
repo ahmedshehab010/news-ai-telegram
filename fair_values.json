@@ -1,0 +1,942 @@
+{
+    "KRDI": {
+        "company_names": [
+            "نهر الخير للتنمية والأستثمار الزراعى"
+        ],
+        "fair_value": 0.62,
+        "current_price": 0.62,
+        "upside_percent": -0.9,
+        "valuation": "عادل",
+        "health_score": 42.43
+    },
+    "MENA": {
+        "company_names": [
+            "مينا للاستثمار السياحي والعقاري"
+        ],
+        "fair_value": 2.46,
+        "current_price": 4.38,
+        "upside_percent": -43.8,
+        "valuation": "تقييم مبالغ",
+        "health_score": 31.86
+    },
+    "MPCI": {
+        "company_names": [
+            "ممفيس للأدوية والصناعات الكيماوية"
+        ],
+        "fair_value": 146.94,
+        "current_price": 153.04,
+        "upside_percent": -4.0,
+        "valuation": "عادل",
+        "health_score": 51.7
+    },
+    "ADIB": {
+        "company_names": [
+            "مصرف أبو ظبي الإسلامي - مصر"
+        ],
+        "fair_value": 33.19,
+        "current_price": 39.0,
+        "upside_percent": -14.9,
+        "valuation": "عادل",
+        "health_score": 73.3
+    },
+    "EGAL": {
+        "company_names": [
+            "مصر للالومنيوم"
+        ],
+        "fair_value": 278.52,
+        "current_price": 239.89,
+        "upside_percent": 16.1,
+        "valuation": "عادل",
+        "health_score": 48.62
+    },
+    "MCQE": {
+        "company_names": [
+            "مصر للأسمنت"
+        ],
+        "fair_value": 189.8,
+        "current_price": 168.93,
+        "upside_percent": 12.4,
+        "valuation": "عادل",
+        "health_score": 58.23
+    },
+    "MFPC": {
+        "company_names": [
+            "مصر لإنتاج الأسمدة"
+        ],
+        "fair_value": 42.16,
+        "current_price": 32.98,
+        "upside_percent": 27.8,
+        "valuation": "تقييم مبخس",
+        "health_score": 64.28
+    },
+    "ATQA": {
+        "company_names": [
+            "مصر الوطنية للصلب"
+        ],
+        "fair_value": 8.49,
+        "current_price": 9.47,
+        "upside_percent": -10.3,
+        "valuation": "عادل",
+        "health_score": 48.59
+    },
+    "HELI": {
+        "company_names": [
+            "مصر الجديدة للاسكان والتعمير"
+        ],
+        "fair_value": 4.63,
+        "current_price": 3.61,
+        "upside_percent": 28.2,
+        "valuation": "تقييم مبخس",
+        "health_score": 57.68
+    },
+    "MASR": {
+        "company_names": [
+            "مدينة نصر للاسكان والتعمير"
+        ],
+        "fair_value": 5.77,
+        "current_price": 5.18,
+        "upside_percent": 11.5,
+        "valuation": "عادل",
+        "health_score": 68.53
+    },
+    "AMER": {
+        "company_names": [
+            "مجموعة عامر القابضة"
+        ],
+        "fair_value": 1.69,
+        "current_price": 2.2,
+        "upside_percent": -23.0,
+        "valuation": "تقييم مبالغ",
+        "health_score": 51.03
+    },
+    "TMGH": {
+        "company_names": [
+            "مجموعة طلعت مصطفى القابضة"
+        ],
+        "fair_value": 57.65,
+        "current_price": 88.44,
+        "upside_percent": -34.8,
+        "valuation": "تقييم مبالغ",
+        "health_score": 70.97
+    },
+    "MCRO": {
+        "company_names": [
+            "ماكرو جروب للمستحضرات الطبية"
+        ],
+        "fair_value": 2.04,
+        "current_price": 1.41,
+        "upside_percent": 44.5,
+        "valuation": "تقييم مبخس",
+        "health_score": 63.05
+    },
+    "LCSW": {
+        "company_names": [
+            "ليسيكو مصر"
+        ],
+        "fair_value": 27.57,
+        "current_price": 25.67,
+        "upside_percent": 7.4,
+        "valuation": "عادل",
+        "health_score": 35.85
+    },
+    "CNFN": {
+        "company_names": [
+            "كونتكت المالية القابضة"
+        ],
+        "fair_value": 4.4,
+        "current_price": 4.36,
+        "upside_percent": 1.0,
+        "valuation": "عادل",
+        "health_score": 30.43
+    },
+    "FWRY": {
+        "company_names": [
+            "فوري لتكنولوجيا البنوك والمدفوعات"
+        ],
+        "fair_value": 21.33,
+        "current_price": 18.75,
+        "upside_percent": 13.8,
+        "valuation": "عادل",
+        "health_score": 65.21
+    },
+    "VLMRA": {
+        "company_names": [
+            "فالمور القابضة للاستثمار"
+        ],
+        "fair_value": 30.73,
+        "current_price": 24.45,
+        "upside_percent": 25.7,
+        "valuation": "تقييم مبخس",
+        "health_score": 54.35
+    },
+    "VLMR": {
+        "company_names": [
+            "فالمور القابضة للاستثمار"
+        ],
+        "fair_value": 0.91,
+        "current_price": 0.7,
+        "upside_percent": 30.4,
+        "valuation": "تقييم مبخس",
+        "health_score": 58.94
+    },
+    "GBCO": {
+        "company_names": [
+            "غبور أوتو"
+        ],
+        "fair_value": 35.99,
+        "current_price": 31.79,
+        "upside_percent": 13.2,
+        "valuation": "عادل",
+        "health_score": 63.5
+    },
+    "EGAS": {
+        "company_names": [
+            "غاز مصر"
+        ],
+        "fair_value": 44.34,
+        "current_price": 42.03,
+        "upside_percent": 5.5,
+        "valuation": "عادل",
+        "health_score": 38.52
+    },
+    "OLFI": {
+        "company_names": [
+            "عبور لاند للصناعات الغذائية"
+        ],
+        "fair_value": 25.93,
+        "current_price": 23.7,
+        "upside_percent": 9.4,
+        "valuation": "عادل",
+        "health_score": 43.17
+    },
+    "TAQA": {
+        "company_names": [
+            "طاقة عربية"
+        ],
+        "fair_value": 11.18,
+        "current_price": 12.8,
+        "upside_percent": -12.7,
+        "valuation": "عادل",
+        "health_score": 46.65
+    },
+    "CLHO": {
+        "company_names": [
+            "شركة مستشفي كليوباترا"
+        ],
+        "fair_value": 13.77,
+        "current_price": 11.82,
+        "upside_percent": 16.5,
+        "valuation": "عادل",
+        "health_score": 37.1
+    },
+    "CCAP": {
+        "company_names": [
+            "شركة القلعة للاستشارات المالية"
+        ],
+        "fair_value": 3.84,
+        "current_price": 3.55,
+        "upside_percent": 8.2,
+        "valuation": "عادل",
+        "health_score": 47.0
+    },
+    "SKPC": {
+        "company_names": [
+            "سيدي كرير للبتروكيماويات"
+        ],
+        "fair_value": 21.06,
+        "current_price": 15.3,
+        "upside_percent": 37.7,
+        "valuation": "تقييم مبخس",
+        "health_score": 52.5
+    },
+    "ZMID": {
+        "company_names": [
+            "زهراء المعادي للاستثمار والتعمير"
+        ],
+        "fair_value": 6.49,
+        "current_price": 5.6,
+        "upside_percent": 16.0,
+        "valuation": "عادل",
+        "health_score": 54.54
+    },
+    "RAYA": {
+        "company_names": [
+            "راية القابضة للاستثمارات المالية"
+        ],
+        "fair_value": 5.42,
+        "current_price": 4.9,
+        "upside_percent": 10.6,
+        "valuation": "عادل",
+        "health_score": 78.36
+    },
+    "DSCW": {
+        "company_names": [
+            "دايس للملابس الجاهزة"
+        ],
+        "fair_value": 2.02,
+        "current_price": 1.71,
+        "upside_percent": 18.2,
+        "valuation": "تقييم مبخس",
+        "health_score": 45.92
+    },
+    "JUFO": {
+        "company_names": [
+            "جهينة للصناعات الغذائية"
+        ],
+        "fair_value": 29.17,
+        "current_price": 30.09,
+        "upside_percent": -3.1,
+        "valuation": "عادل",
+        "health_score": 67.27
+    },
+    "SVCE": {
+        "company_names": [
+            "جنوب الوادى للأسمنت"
+        ],
+        "fair_value": 5.78,
+        "current_price": 8.27,
+        "upside_percent": -30.1,
+        "valuation": "تقييم مبالغ",
+        "health_score": 43.39
+    },
+    "BINV": {
+        "company_names": [
+            "بي إنفستمنتس القابضة"
+        ],
+        "fair_value": 46.1,
+        "current_price": 43.46,
+        "upside_percent": 6.1,
+        "valuation": "عادل",
+        "health_score": 63.94
+    },
+    "CIEB": {
+        "company_names": [
+            "بنك كريدي أجريكول مصر"
+        ],
+        "fair_value": 24.75,
+        "current_price": 25.66,
+        "upside_percent": -3.5,
+        "valuation": "عادل",
+        "health_score": 58.71
+    },
+    "HDBK": {
+        "company_names": [
+            "بنك التعمير والإسكان"
+        ],
+        "fair_value": 92.54,
+        "current_price": 98.48,
+        "upside_percent": -6.0,
+        "valuation": "عادل",
+        "health_score": 69.14
+    },
+    "BTFH": {
+        "company_names": [
+            "بلتون المالية القابضة"
+        ],
+        "fair_value": 3.13,
+        "current_price": 3.18,
+        "upside_percent": -1.4,
+        "valuation": "عادل",
+        "health_score": 36.32
+    },
+    "PRDC": {
+        "company_names": [
+            "بايونيرز بروبرتيز للتنمية العمرانية"
+        ],
+        "fair_value": 3.45,
+        "current_price": 3.8,
+        "upside_percent": -9.1,
+        "valuation": "عادل",
+        "health_score": 34.33
+    },
+    "PHDC": {
+        "company_names": [
+            "بالم هيلز للتعمير"
+        ],
+        "fair_value": 10.89,
+        "current_price": 9.05,
+        "upside_percent": 20.4,
+        "valuation": "تقييم مبخس",
+        "health_score": 53.64
+    },
+    "EFIH": {
+        "company_names": [
+            "اي فاينانس للاستثمارات المالية"
+        ],
+        "fair_value": 22.34,
+        "current_price": 22.25,
+        "upside_percent": 0.4,
+        "valuation": "عادل",
+        "health_score": 63.95
+    },
+    "ORAS": {
+        "company_names": [
+            "اوراسكوم كونستراكشون"
+        ],
+        "fair_value": 510.43,
+        "current_price": 427.0,
+        "upside_percent": 19.5,
+        "valuation": "تقييم مبخس",
+        "health_score": 50.01
+    },
+    "MTIE": {
+        "company_names": [
+            "ام.ام جروب للصناعة والتجارة"
+        ],
+        "fair_value": 9.2,
+        "current_price": 7.54,
+        "upside_percent": 22.1,
+        "valuation": "تقييم مبخس",
+        "health_score": 47.92
+    },
+    "KABO": {
+        "company_names": [
+            "النصر للملابس والمنسوجات"
+        ],
+        "fair_value": 5.47,
+        "current_price": 6.59,
+        "upside_percent": -17.1,
+        "valuation": "عادل",
+        "health_score": 51.21
+    },
+    "ORWE": {
+        "company_names": [
+            "النساجون الشرقيون للسجاد"
+        ],
+        "fair_value": 26.61,
+        "current_price": 22.37,
+        "upside_percent": 19.0,
+        "valuation": "تقييم مبخس",
+        "health_score": 46.32
+    },
+    "MPCO": {
+        "company_names": [
+            "المنصورة للدواجن"
+        ],
+        "fair_value": 1.85,
+        "current_price": 1.59,
+        "upside_percent": 16.4,
+        "valuation": "عادل",
+        "health_score": 39.33
+    },
+    "AMIA": {
+        "company_names": [
+            "الملتقى العربي للاستثمارات"
+        ],
+        "fair_value": 4.16,
+        "current_price": 4.8,
+        "upside_percent": -13.3,
+        "valuation": "عادل",
+        "health_score": 40.63
+    },
+    "ARAB": {
+        "company_names": [
+            "المطورون العرب القابضة"
+        ],
+        "fair_value": 0.15,
+        "current_price": 0.2,
+        "upside_percent": -22.4,
+        "valuation": "تقييم مبالغ",
+        "health_score": 35.91
+    },
+    "EHDR": {
+        "company_names": [
+            "المصريين للاسكان والتنمية"
+        ],
+        "fair_value": null,
+        "current_price": 2.2,
+        "upside_percent": null,
+        "valuation": "-",
+        "health_score": 37.67
+    },
+    "MPRC": {
+        "company_names": [
+            "المصرية لمدينة الإنتاج الإعلامي"
+        ],
+        "fair_value": 33.31,
+        "current_price": 26.83,
+        "upside_percent": 24.1,
+        "valuation": "تقييم مبخس",
+        "health_score": 46.56
+    },
+    "EGTS": {
+        "company_names": [
+            "المصرية للمنتجعات السياحية"
+        ],
+        "fair_value": 8.2,
+        "current_price": 7.68,
+        "upside_percent": 6.8,
+        "valuation": "عادل",
+        "health_score": 38.94
+    },
+    "ETEL": {
+        "company_names": [
+            "المصرية للاتصالات"
+        ],
+        "fair_value": 89.13,
+        "current_price": 83.25,
+        "upside_percent": 7.1,
+        "valuation": "عادل",
+        "health_score": 63.65
+    },
+    "ETRS": {
+        "company_names": [
+            "المصرية لخدمات النقل"
+        ],
+        "fair_value": 8.5,
+        "current_price": 7.8,
+        "upside_percent": 9.0,
+        "valuation": "عادل",
+        "health_score": 59.2
+    },
+    "PHAR": {
+        "company_names": [
+            "المصرية الدولية للصناعات الدوائية"
+        ],
+        "fair_value": 86.15,
+        "current_price": 81.1,
+        "upside_percent": 6.2,
+        "valuation": "عادل",
+        "health_score": 53.37
+    },
+    "UBEE": {
+        "company_names": [
+            "المصرف المتحد"
+        ],
+        "fair_value": 11.95,
+        "current_price": 13.96,
+        "upside_percent": -14.4,
+        "valuation": "عادل",
+        "health_score": 30.18
+    },
+    "HRHO": {
+        "company_names": [
+            "المجموعة المالية هيرمس القابضة"
+        ],
+        "fair_value": 31.95,
+        "current_price": 29.29,
+        "upside_percent": 9.1,
+        "valuation": "عادل",
+        "health_score": 64.58
+    },
+    "UNIT": {
+        "company_names": [
+            "المتحدة للاسكان والتعمير"
+        ],
+        "fair_value": 9.35,
+        "current_price": 9.54,
+        "upside_percent": -1.9,
+        "valuation": "عادل",
+        "health_score": 39.95
+    },
+    "ELEC": {
+        "company_names": [
+            "الكابلات الكهربائية المصرية"
+        ],
+        "fair_value": 2.56,
+        "current_price": 2.32,
+        "upside_percent": 10.5,
+        "valuation": "عادل",
+        "health_score": 27.55
+    },
+    "CSAG": {
+        "company_names": [
+            "القناة للتوكيلات الملاحية"
+        ],
+        "fair_value": 22.88,
+        "current_price": 32.66,
+        "upside_percent": -30.0,
+        "valuation": "تقييم مبالغ",
+        "health_score": 42.31
+    },
+    "COSG": {
+        "company_names": [
+            "القاهره للزيوت والصابون"
+        ],
+        "fair_value": 1.46,
+        "current_price": 1.45,
+        "upside_percent": 0.3,
+        "valuation": "عادل",
+        "health_score": 47.33
+    },
+    "POUL": {
+        "company_names": [
+            "القاهرة للدواجن"
+        ],
+        "fair_value": 33.12,
+        "current_price": 27.1,
+        "upside_percent": 22.2,
+        "valuation": "تقييم مبخس",
+        "health_score": 54.9
+    },
+    "CIRA": {
+        "company_names": [
+            "القاهرة للاستثمار والتنمية العقارية"
+        ],
+        "fair_value": 23.59,
+        "current_price": 18.34,
+        "upside_percent": 28.6,
+        "valuation": "تقييم مبخس",
+        "health_score": 53.49
+    },
+    "ELKA": {
+        "company_names": [
+            "القاهرة للإسكان والتعمير"
+        ],
+        "fair_value": 3.12,
+        "current_price": 2.23,
+        "upside_percent": 40.1,
+        "valuation": "تقييم مبخس",
+        "health_score": 45.27
+    },
+    "ECAP": {
+        "company_names": [
+            "العز للسيراميك والبورسلين"
+        ],
+        "fair_value": 20.69,
+        "current_price": 29.31,
+        "upside_percent": -29.4,
+        "valuation": "تقييم مبالغ",
+        "health_score": 36.5
+    },
+    "ADPC": {
+        "company_names": [
+            "العربية لمنتجات الألبان"
+        ],
+        "fair_value": 4.06,
+        "current_price": 3.45,
+        "upside_percent": 17.8,
+        "valuation": "عادل",
+        "health_score": 35.13
+    },
+    "CERA": {
+        "company_names": [
+            "العربية للخزف سيراميكا"
+        ],
+        "fair_value": 0.86,
+        "current_price": 1.18,
+        "upside_percent": -27.4,
+        "valuation": "تقييم مبالغ",
+        "health_score": 37.36
+    },
+    "ARCC": {
+        "company_names": [
+            "العربية للأسمنت"
+        ],
+        "fair_value": 54.76,
+        "current_price": 46.89,
+        "upside_percent": 16.8,
+        "valuation": "عادل",
+        "health_score": 38.39
+    },
+    "ACGC": {
+        "company_names": [
+            "العربية لحليج الأقطان"
+        ],
+        "fair_value": 6.08,
+        "current_price": 8.02,
+        "upside_percent": -24.2,
+        "valuation": "تقييم مبالغ",
+        "health_score": 38.01
+    },
+    "OBRI": {
+        "company_names": [
+            "العبور للاستثمار العقاري"
+        ],
+        "fair_value": 29.65,
+        "current_price": 36.53,
+        "upside_percent": -18.8,
+        "valuation": "تقييم مبالغ",
+        "health_score": 45.08
+    },
+    "MEPA": {
+        "company_names": [
+            "العبوات الطبية"
+        ],
+        "fair_value": 1.34,
+        "current_price": 1.66,
+        "upside_percent": -19.5,
+        "valuation": "تقييم مبالغ",
+        "health_score": 39.66
+    },
+    "PRCL": {
+        "company_names": [
+            "العامة لمنتجات الخزف والصيني"
+        ],
+        "fair_value": 10.12,
+        "current_price": 16.35,
+        "upside_percent": -38.1,
+        "valuation": "تقييم مبالغ",
+        "health_score": 47.94
+    },
+    "RMDA": {
+        "company_names": [
+            "العاشر من رمضان للصناعات الدوائية"
+        ],
+        "fair_value": 3.7,
+        "current_price": 3.29,
+        "upside_percent": 12.3,
+        "valuation": "عادل",
+        "health_score": 52.67
+    },
+    "ENGC": {
+        "company_names": [
+            "الصناعات الهندسية المعمارية"
+        ],
+        "fair_value": 43.21,
+        "current_price": 35.43,
+        "upside_percent": 21.9,
+        "valuation": "تقييم مبخس",
+        "health_score": 54.96
+    },
+    "EGCH": {
+        "company_names": [
+            "الصناعات الكيماوية المصرية"
+        ],
+        "fair_value": 16.07,
+        "current_price": 11.72,
+        "upside_percent": 37.1,
+        "valuation": "تقييم مبخس",
+        "health_score": 57.47
+    },
+    "UEGC": {
+        "company_names": [
+            "الصعيد العامة للمقاولات"
+        ],
+        "fair_value": 1.4,
+        "current_price": 1.29,
+        "upside_percent": 8.7,
+        "valuation": "عادل",
+        "health_score": 39.31
+    },
+    "ELSH": {
+        "company_names": [
+            "الشمس للإسكان والتعمير"
+        ],
+        "fair_value": 7.06,
+        "current_price": 7.15,
+        "upside_percent": -1.3,
+        "valuation": "عادل",
+        "health_score": 33.63
+    },
+    "EAST": {
+        "company_names": [
+            "الشرقية - ايسترن كومباني"
+        ],
+        "fair_value": 42.78,
+        "current_price": 40.7,
+        "upside_percent": 5.1,
+        "valuation": "عادل",
+        "health_score": 56.49
+    },
+    "SWDY": {
+        "company_names": [
+            "السويدي اليكتريك"
+        ],
+        "fair_value": 78.71,
+        "current_price": 80.01,
+        "upside_percent": -1.6,
+        "valuation": "عادل",
+        "health_score": 47.55
+    },
+    "OCDI": {
+        "company_names": [
+            "السادس من أكتوبر للتنمية"
+        ],
+        "fair_value": 20.8,
+        "current_price": 17.0,
+        "upside_percent": 22.4,
+        "valuation": "تقييم مبخس",
+        "health_score": 39.52
+    },
+    "IFAP": {
+        "company_names": [
+            "الدولية للمحاصيل الزراعية"
+        ],
+        "fair_value": 13.07,
+        "current_price": 19.13,
+        "upside_percent": -31.7,
+        "valuation": "تقييم مبالغ",
+        "health_score": 63.72
+    },
+    "SUGR": {
+        "company_names": [
+            "الدلتا للسكر"
+        ],
+        "fair_value": 54.85,
+        "current_price": 48.52,
+        "upside_percent": 13.0,
+        "valuation": "عادل",
+        "health_score": 53.68
+    },
+    "MOIL": {
+        "company_names": [
+            "الخدمات الملاحية والبترولية"
+        ],
+        "fair_value": 0.44,
+        "current_price": 0.42,
+        "upside_percent": 6.6,
+        "valuation": "عادل",
+        "health_score": 26.94
+    },
+    "ISMQ": {
+        "company_names": [
+            "الحديد والصلب للمناجم والمحاجر"
+        ],
+        "fair_value": 8.29,
+        "current_price": 7.3,
+        "upside_percent": 13.6,
+        "valuation": "عادل",
+        "health_score": 58.58
+    },
+    "GGCC": {
+        "company_names": [
+            "الجيزة العامة للمقاولات"
+        ],
+        "fair_value": 0.71,
+        "current_price": 0.55,
+        "upside_percent": 29.8,
+        "valuation": "تقييم مبخس",
+        "health_score": 30.22
+    },
+    "EXPA": {
+        "company_names": [
+            "البنك المصري لتنمية الصادرات"
+        ],
+        "fair_value": 18.27,
+        "current_price": 16.4,
+        "upside_percent": 11.4,
+        "valuation": "عادل",
+        "health_score": 52.28
+    },
+    "COMI": {
+        "company_names": [
+            "البنك التجاري الدولي"
+        ],
+        "fair_value": 120.77,
+        "current_price": 133.0,
+        "upside_percent": -9.2,
+        "valuation": "عادل",
+        "health_score": 66.62
+    },
+    "ISMA": {
+        "company_names": [
+            "الاسماعيلية مصر للدواجن"
+        ],
+        "fair_value": 13.13,
+        "current_price": 13.33,
+        "upside_percent": -1.5,
+        "valuation": "عادل",
+        "health_score": 46.21
+    },
+    "AMOC": {
+        "company_names": [
+            "الاسكندرية للزيوت المعدنية"
+        ],
+        "fair_value": 9.29,
+        "current_price": 7.04,
+        "upside_percent": 32.0,
+        "valuation": "تقييم مبخس",
+        "health_score": 51.3
+    },
+    "RREI": {
+        "company_names": [
+            "الاستثمار العقاري العربي"
+        ],
+        "fair_value": 2.41,
+        "current_price": 2.71,
+        "upside_percent": -11.1,
+        "valuation": "عادل",
+        "health_score": 45.37
+    },
+    "AIHC": {
+        "company_names": [
+            "ارابيا انفستمنتس هولدنج"
+        ],
+        "fair_value": 0.27,
+        "current_price": 0.31,
+        "upside_percent": -13.2,
+        "valuation": "عادل",
+        "health_score": 37.7
+    },
+    "ISPH": {
+        "company_names": [
+            "ابن سينا فارما"
+        ],
+        "fair_value": 11.86,
+        "current_price": 11.0,
+        "upside_percent": 7.8,
+        "valuation": "عادل",
+        "health_score": 47.17
+    },
+    "EFID": {
+        "company_names": [
+            "إيديتا للصناعات الغذائية"
+        ],
+        "fair_value": 31.05,
+        "current_price": 29.51,
+        "upside_percent": 5.2,
+        "valuation": "عادل",
+        "health_score": 60.36
+    },
+    "EMFD": {
+        "company_names": [
+            "إعمار مصر للتنمية"
+        ],
+        "fair_value": 11.72,
+        "current_price": 9.39,
+        "upside_percent": 24.8,
+        "valuation": "تقييم مبخس",
+        "health_score": 37.63
+    },
+    "ORHD": {
+        "company_names": [
+            "أوراسكوم للتنمية مصر"
+        ],
+        "fair_value": 35.98,
+        "current_price": 24.46,
+        "upside_percent": 47.1,
+        "valuation": "تقييم مبخس",
+        "health_score": 52.78
+    },
+    "OFH": {
+        "company_names": [
+            "أوراسكوم المالية القابضة"
+        ],
+        "fair_value": 0.58,
+        "current_price": 0.59,
+        "upside_percent": -0.8,
+        "valuation": "عادل",
+        "health_score": 66.48
+    },
+    "ASCM": {
+        "company_names": [
+            "أسيك للتعدين"
+        ],
+        "fair_value": 55.18,
+        "current_price": 43.0,
+        "upside_percent": 28.3,
+        "valuation": "تقييم مبخس",
+        "health_score": 51.34
+    },
+    "SCEM": {
+        "company_names": [
+            "أسمنت سيناء"
+        ],
+        "fair_value": 75.14,
+        "current_price": 64.1,
+        "upside_percent": 17.2,
+        "valuation": "عادل",
+        "health_score": 53.46
+    },
+    "ABUK": {
+        "company_names": [
+            "أبو قير للأسمدة"
+        ],
+        "fair_value": 79.81,
+        "current_price": 67.1,
+        "upside_percent": 18.9,
+        "valuation": "تقييم مبخس",
+        "health_score": 85.03
+    }
+}
