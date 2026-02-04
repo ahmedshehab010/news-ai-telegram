@@ -1,0 +1,10 @@
+feedparser
+asyncio
+requests
+beautifulsoup4
+google-generativeai
+python-telegram-bot
+pandas
+openpyxl
+hashlib
+python-dotenv
