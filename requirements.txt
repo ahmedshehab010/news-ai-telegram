@@ -1,0 +1,8 @@
+feedparser
+requests
+beautifulsoup4
+google-generativeai
+python-telegram-bot
+pandas
+openpyxl
+python-dotenv
